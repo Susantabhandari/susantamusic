@@ -14,7 +14,7 @@ from VenomX import app
 from VenomX.utils.decorators.language import language
 
 
-api_key = "Vd9FvPMOKWfsKJNG9RbZnItaTNIRFzVyyXFdrGHONVsGqHcHBoj3AI3sIlNuqzuf0ZNG8uLcF9wAd5DXBBnUzA"
+api_key = "P2xjUTYciOtLP6ojcobvMpX419x4aVUzA12x6pl-a4ZybUxWybN3Z-P8tcD2B0M-csh2rkqCIO2aElZBeiWzug"
 y = lg.Genius(
     api_key,
     skip_non_songs=True,

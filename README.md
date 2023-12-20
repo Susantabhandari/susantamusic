@@ -2,11 +2,11 @@
 
 
 <h2 align="center">
-    ──「SusantaXmusic」──
+    ──𝐒𝐮𝐬𝐚𝐧𝐭𝐚✘𝐌𝐮𝐬𝐢𝐜──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/512cb02720b7b73e956a3.jpg">
+  <img src="https://telegra.ph/file/1d5ac4aa8a1ce8a5235d5.jpg">
 </p>
 
 <p align="center">

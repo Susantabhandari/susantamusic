@@ -61,8 +61,8 @@ PLAYLIST_FETCH_LIMIT = int(getenv("PLAYLIST_FETCH_LIMIT", 25))
 CLEANMODE_DELETE_MINS = int(
     getenv("CLEANMODE_MINS", "1"))
 # Telegram audio and video file size limit (in bytes)
-TG_AUDIO_FILESIZE_LIMIT = int(getenv("TG_AUDIO_FILESIZE_LIMIT", 2000000000))
-TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 2000000000))
+TG_AUDIO_FILESIZE_LIMIT = int(getenv("TG_AUDIO_FILESIZE_LIMIT", 180000000))
+TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 1900000000))
 # Checkout https://www.gbmb.org/mb-to-bytes for converting mb to bytes
 
 
